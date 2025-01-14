@@ -4,7 +4,7 @@
 </div>
 
 <!-- Main text content using custom font sizes and weights -->
-# Hi I'm Theo
+# Hi I'm Theo 👋🏽
 <div align="center" style="font-size: 18px">Software Developer / Researcher / Lifelong learner and teacher</div>
 
 <br />
@@ -13,14 +13,14 @@
 ⭐ Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of datascience, datavisulaization, app/web development and transformative technologies like AI, LLMs, HCI, and UX.
 
 
-🚀 Currently, I am primarily focused on building & launching CampusThrift.
-
 💡 I believe in the power of collaboration and am always looking for exciting projects that make a difference. If you're working on something impactful, feel free to connect with me through the links below.
+
+🚀 Currently, I am primarily focused on building & launching CampusThrift.
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/tewoflosgirmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/tewoflosgirmay" height="30" width="40" /></a>
+<a href="https://linkedin.com/tewoflosgirmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/tewoflosgirmay" height="30" width="40" /></a>
 </p>
 
 </div>
