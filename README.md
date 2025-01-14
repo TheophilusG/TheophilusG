@@ -1,6 +1,6 @@
 <!-- Banner section start -->
 <div align="center">
-  <img width="100%" src="./assets/header.gif" alt="banner image" style="border-radius: 8px" />
+  <img width="100%" src="./assets/Tewoflos Girmay.png" alt="banner image" style="border-radius: 8px" />
 </div>
 
 <!-- Main text content using custom font sizes and weights -->
