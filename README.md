@@ -4,7 +4,6 @@
 </div>
 
 <!-- Main text content using custom font sizes and weights -->
-# Hi I'm Theo 👋🏽
 <div align="center" style="font-size: 18px">Software Developer / Researcher / Lifelong learner and teacher</div>
 
 <br />
@@ -14,6 +13,7 @@
 
 
 💡 I believe in the power of collaboration and am always looking for exciting projects that make a difference. If you're working on something impactful, feel free to connect with me through the links below.
+
 
 🚀 Currently, I am primarily focused on building & launching CampusThrift.
 
