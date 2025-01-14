@@ -4,7 +4,7 @@
 </div>
 
 <!-- Main text content using custom font sizes and weights -->
-# YOUR NAME
+# Tewoflos Girmay 
 <div align="center" style="font-size: 18px">Software Developer / Your Role / Your Subtitle</div>
 
 <br />
