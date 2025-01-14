@@ -4,13 +4,14 @@
 </div>
 
 <!-- Main text content using custom font sizes and weights -->
-# Tewoflos Girmay 
+# Hi I'm Theo
 <div align="center" style="font-size: 18px">Software Developer / Researcher / Lifelong learner and teacher</div>
 
 <br />
 
 <div style="font-size: 16px; line-height: 1.6">
 ⭐ Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of datascience, datavisulaization, app/web development and transformative technologies like AI, LLMs, HCI, and UX.
+
 
 🚀 Currently, I am primarily focused on building & launching CampusThrift.
 
