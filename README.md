@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Theo</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of CS, Math, app/web development and transformative technologies like AI, LLMs, HCI, and UX.</h3>
+<h1 align="center">🌟 Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of app/web development and transformative technologies like AI, LLMs, HCI, and UX.
+
+🔭 Currently, I am primarily focused on building & launching CampusThrift, a campus market web app and mobile apps that aims to revolutionize the way students shop. I also occasionally publish my thoughts on my medium channel where I offer tutorials, ask questions, pursue research questions and share the knowledge I gained through my unique experiences.
+
+💡 I believe in the power of collaboration and am always looking for exciting projects that make a difference. If you're spearheading an impactful project that seeks to make a difference, feel free to connect with me in the platform of your choice through the buttons below or the links in my profile.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theophilusg&label=Profile%20views&color=0e75b6&style=flat" alt="theophilusg" /> </p>
 
