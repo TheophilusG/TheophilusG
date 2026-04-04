@@ -1,53 +1,43 @@
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║                                                                           ║
-║                   Software Developer · Researcher                         ║
-║                                                                           ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=theophilusg&label=Profile%20views&color=0e75b6&style=flat" alt="theophilusg" /> </p>
 
-<div align="center">
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Theophilus+Girmay" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=theophilusg&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/theophilusg?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/theophilusg?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Theophilus-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewoflos-girmay/)
+[![Mail](https://img.shields.io/badge/Gmail-Get%20in%20Touch-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:tewoflos@example.com?subject=Hey!)
 
-</div>
+<br>
 
----
+# Hi there
 
-### Note for Today
+I'm Theophilus Girmay, a **Software Developer**, **Researcher**, and **Lifelong Learner** passionate about building impactful products. Currently focused on launching **DFunc**.
+
+I'm particularly interested in the intersection of systems and software under transformative technologies. I believe in collaboration and am always open to exciting projects that make a difference.
+
+## Note for Today
 
 <!-- DAILY-QUOTE-START -->
 > The goal of software engineering is to control complexity, not to create it. — Pamela Zave
 <!-- DAILY-QUOTE-END -->
 
----
-
-### Now Playing
-
-<!-- SPOTIFY:START -->
-<!-- SPOTIFY:END -->
-
----
-
-### Dev Mood
+## Dev Mood
 
 <!-- DAILY-MOOD-START -->
 `flexible` · `adaptive` · `resilient`
 <!-- DAILY-MOOD-END -->
 
+## Now Playing
+
+<!-- SPOTIFY:START -->
+<!-- SPOTIFY:END -->
+
+
 ---
 
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewoflos-girmay/)
-
----
-
-### Tech Stack
+## Skills & Technologies
 
 <div align="center">
 
@@ -106,14 +96,10 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
-<div align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusg&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/theophilusg)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusg&layout=compact&theme=dark)](https://github.com/theophilusg)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theophilusg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/theophilusg)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theophilusg&theme=dark)](https://github.com/theophilusg)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theophilusg&theme=dark)](https://github.com/theophilusg)
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theophilusg&theme=react&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=F85D7F&currStreakLabel=F8D866&sideNums=F85D7F&sideLabelsBg=1F222E&dateRangeLabel=F8D866)](https://github.com/theophilusg)
