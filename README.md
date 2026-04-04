@@ -28,9 +28,8 @@
 
 ### Now Playing
 
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?user=theophilusg)](https://open.spotify.com/user/theophilusg)
+<!-- SPOTIFY:START -->
+<!-- SPOTIFY:END -->
 
 > **NOTE:** Replace the Spotify URL above with your deployed novatorem instance URL after forking and deploying it to Vercel.
 
