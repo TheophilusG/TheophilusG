@@ -12,7 +12,7 @@
 
 # Hi
 
-I'm Teo, a **Software Developer**, **Researcher**, and **Lifelong Learner** passionate about building impactful products. Currently focused on launching **DFunc**.
+I'm Teo, a **Software Developer**, **Researcher**, and **Lifelong Learner** passionate about building impactful products.
 
 I'm particularly interested in the intersection of systems and software under transformative technologies. I believe in collaboration and am always open to exciting projects that make a difference.
 
