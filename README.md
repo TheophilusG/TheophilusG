@@ -30,9 +30,6 @@
 
 <!-- SPOTIFY:START -->
 <!-- SPOTIFY:END -->
-
-> **NOTE:** Replace the Spotify URL above with your deployed novatorem instance URL after forking and deploying it to Vercel.
-
 </div>
 
 ---
