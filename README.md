@@ -1,4 +1,8 @@
-[`Ascii Art Screenshot (Apr 4, 2026)`](./assets/Ascii%20Art%20Screenshot%20Apr%204%202026.html)
+<p align="center">
+  <img src="./assets/asci.png" alt="ASCII Art Screenshot" />
+</p>
+
+[`Open HTML version`](./assets/Ascii%20Art%20Screenshot%20Apr%204%202026.html)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=theophilusg&label=Profile%20views&color=0e75b6&style=flat" alt="theophilusg" /> </p>
 
