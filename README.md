@@ -2,12 +2,11 @@
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Tewoflos+Girmay" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Teo" alt="Title GitHub Readme" />
   </a>
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Theophilus-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewoflos-girmay/)
-[![Mail](https://img.shields.io/badge/Gmail-Get%20in%20Touch-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:tewoflos@example.com?subject=Hey!)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-T-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewoflos-girmay/)
 
 <br>
 
