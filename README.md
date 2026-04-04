@@ -21,7 +21,7 @@
 ### Note for Today
 
 <!-- DAILY-QUOTE-START -->
-> The only way to do great work is to love what you do. — Steve Jobs
+> The goal of software engineering is to control complexity, not to create it. — Pamela Zave
 <!-- DAILY-QUOTE-END -->
 
 ---
@@ -37,7 +37,7 @@
 ### Dev Mood
 
 <!-- DAILY-MOOD-START -->
-`focused` · `caffeine-powered` · `shipping-code`
+`flexible` · `adaptive` · `resilient`
 <!-- DAILY-MOOD-END -->
 
 ---
