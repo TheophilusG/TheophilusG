@@ -9,13 +9,13 @@
 <br />
 
 <div style="font-size: 16px; line-height: 1.6">
-⭐ Welcome to my GitHub profile! I'm a passionate explorer driven by a desire to build impactful solutions and share knowledge with the world. I'm particularly interested in the intersection of datascience, datavisulaization, app/web development and transformative technologies like AI, LLMs, HCI, and UX.
+Welcome to my GitHub profile! I'm build impactful products and share knowledge with the world. I'm particularly interested in the intersection of systems and software under transformative technologies.
 
 
-💡 I believe in the power of collaboration and am always looking for exciting projects that make a difference. If you're working on something impactful, feel free to connect with me through the links below.
+I believe in the power of collaboration and am always looking for exciting projects that make a difference. If you're working on something impactful, feel free to connect with me through the links below.
 
 
-🚀 Currently, I am primarily focused on building & launching CampusThrift.
+Currently, I am primarily focused on building & launching DFunc.
 
 <h3 align="left">📪 Find me on</h3>
 
