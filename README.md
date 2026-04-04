@@ -26,7 +26,6 @@ Currently, I am primarily focused on building & launching DFunc.
 
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theophilusg" alt="theophilusg" /></a> </p>
 
 
 <h3 align="left">⚡ Languages and Technologies I use</h3>
