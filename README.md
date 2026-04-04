@@ -18,7 +18,7 @@
 
 ---
 
-### 🗒️ Note for Today
+### Note for Today
 
 <!-- DAILY-QUOTE-START -->
 > The only way to do great work is to love what you do. — Steve Jobs
@@ -26,19 +26,19 @@
 
 ---
 
-### 🎧 Now Playing
+### Now Playing
 
 <div align="center">
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?user=theophilusg)](https://open.spotify.com/user/theophilusg)
 
-> **⚠️ NOTE:** Replace the Spotify URL above with your deployed novatorem instance URL once you've forked and deployed it to Vercel.
+> **NOTE:** Replace the Spotify URL above with your deployed novatorem instance URL after forking and deploying it to Vercel.
 
 </div>
 
 ---
 
-### ☕ Dev Mood
+### Dev Mood
 
 <!-- DAILY-MOOD-START -->
 `focused` · `caffeine-powered` · `shipping-code`
@@ -46,13 +46,13 @@
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewoflos-girmay/)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -111,7 +111,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
