@@ -8,7 +8,7 @@
 
 <br />
 
-<div style="font-size: 16px; line-height: 1.6">
+<div style="font-size: 12px; line-height: 1.6">
 Welcome to my GitHub profile! I'm build impactful products and share knowledge with the world. I'm particularly interested in the intersection of systems and software under transformative technologies.
 
 
@@ -26,11 +26,7 @@ Currently, I am primarily focused on building & launching DFunc.
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theophilusg&label=Profile%20views&color=0e75b6&style=flat" alt="theophilusg" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theophilusg" alt="theophilusg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <h3 align="left">⚡ Languages and Technologies I use</h3>
