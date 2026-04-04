@@ -30,7 +30,6 @@
 
 <!-- SPOTIFY:START -->
 <!-- SPOTIFY:END -->
-</div>
 
 ---
 
