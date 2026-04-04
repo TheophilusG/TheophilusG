@@ -1,37 +1,20 @@
+[`Ascii Art Screenshot (Apr 4, 2026)`](./assets/Ascii%20Art%20Screenshot%20Apr%204%202026.html)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=theophilusg&label=Profile%20views&color=0e75b6&style=flat" alt="theophilusg" /> </p>
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=700&size=40&duration=3000&pause=500&multiline=true&width=700&height=160&lines=%24+whoami;Theophilus+Girmay;Building+DFunc" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoiam;Teo" alt="Title GitHub Readme" />
   </a>
 </h1>
 
-<div align="center">
-
-```
- _____ _               _     _ _           
-|_   _| |             | |   (_) |          
-  | | | |__   ___  ___| |__  _| | _   _ ___
-  | | | '_ \ / _ \/ __| '_ \| | |/ _` / __|
-  | | | | | |  __/ (__| | | | | | (_| \__ \
-  \_/ |_| |_|\___|\___|_| |_|_|_|\__,_|___/
-```
-
-**Software Developer · Researcher · Lifelong Learner**
-
-</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Theophilus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewoflos-girmay/)
-
 <br>
 
-## About Me
+# Hi
 
-I'm passionate about building impactful products at the intersection of systems and software. Currently focused on launching **DFunc**.
+I'm Teo, a **Software Developer**, **Researcher**, and **Lifelong Learner** passionate about building impactful products.
 
-I believe in collaboration and am always seeking exciting projects that make a real difference.
-
----
+I'm particularly interested in the intersection of systems and software under transformative technologies. I believe in collaboration and am always open to exciting projects that make a difference.
 
 ## Note for Today
 
@@ -102,39 +85,10 @@ I believe in collaboration and am always seeking exciting projects that make a r
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
----
-
-```
- _____ _ _ _ _   ___    
-|_   _| | | | | / _ \   
-  | | | | | | |/ /_\ \  
-  | | | | | | ||  _  |  
-  | | | |_| | || | | |  
-  \_/  \___/\_|\_| |_/  
-```
+</div>
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusg&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/theophilusg)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theophilusg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/theophilusg)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theophilusg&theme=react&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=F85D7F&currStreakLabel=F8D866&sideNums=F85D7F&sideLabelsBg=1F222E&dateRangeLabel=F8D866)](https://github.com/theophilusg)
-
-</div>
-
----
-
-```
- ________  ________  ________  _______   ___  ___
-|\   __  \|\   ___ \|\   ___ \|\  ___ \ |\  \|\  \
-\ \  \|\  \ \  \_|\ \ \  \_|\ \ \   __/|\ \  \/  /|
- \ \   __  \ \  \ \\ \ \  \ \\ \ \  \_|/_\ \    / /
-  \ \  \ \  \ \  \_\\ \ \  \_\\ \ \  \_|\ \ \  / / 
-   \ \__\ \__\ \_______\ \_______\ \__\    \ \__/  
-    \|__|\|__|\|_______|\|_______|\|__|     \|__|  
-```
