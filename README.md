@@ -2,18 +2,6 @@
   <img src="./assets/asci.png" alt="ASCII Art Screenshot" />
 </p>
 
-[`Open HTML version`](./assets/Ascii%20Art%20Screenshot%20Apr%204%202026.html)
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=theophilusg&label=Profile%20views&color=0e75b6&style=flat" alt="theophilusg" /> </p>
-
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoiam;Teo" alt="Title GitHub Readme" />
-  </a>
-</h1>
-
-<br>
-
 # Hi
 
 I'm Teo, a **Software Developer**, **Researcher**, and **Lifelong Learner** passionate about building impactful products.
