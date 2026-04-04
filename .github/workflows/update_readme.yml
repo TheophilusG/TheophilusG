@@ -18,13 +18,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4.1
 
-      - name: Update Spotify status
-        uses: PhilKes/spotify-github-profile@main
-        with:
-          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-
       - name: Set up Python
         uses: actions/setup-python@v4.1
         with:

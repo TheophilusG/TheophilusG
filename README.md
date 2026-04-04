@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Teo" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoiam;Teo" alt="Title GitHub Readme" />
   </a>
 </h1>
 
@@ -27,12 +27,6 @@ I'm particularly interested in the intersection of systems and software under tr
 <!-- DAILY-MOOD-START -->
 `flexible` · `adaptive` · `resilient`
 <!-- DAILY-MOOD-END -->
-
-## Now Playing
-
-<!-- SPOTIFY:START -->
-<!-- SPOTIFY:END -->
-
 
 ---
 
@@ -96,9 +90,5 @@ I'm particularly interested in the intersection of systems and software under tr
 ---
 
 ## GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusg&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/theophilusg)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theophilusg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/theophilusg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theophilusg&theme=react&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=F85D7F&currStreakLabel=F8D866&sideNums=F85D7F&sideLabelsBg=1F222E&dateRangeLabel=F8D866)](https://github.com/theophilusg)
