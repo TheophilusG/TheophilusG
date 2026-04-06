@@ -78,7 +78,7 @@ I'm particularly interested in the intersection of systems and software under tr
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ze3ve32opf7y2co6mg4fyvzmum&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" width="88%">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ze3ve32opf7y2co6mg4fyvzmum&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" width="30%">
   </a>
 </p>
 
