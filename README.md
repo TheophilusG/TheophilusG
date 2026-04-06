@@ -12,12 +12,6 @@ I'm Teo, a <strong>Software Developer</strong>, <strong>Researcher</strong>, and
 I'm particularly interested in the intersection of systems and software under transformative technologies. I believe in collaboration and am always open to exciting projects that make a difference.
 </p>
 
-## Dev Mood
-
-<!-- DAILY-MOOD-START -->
-`flexible` · `adaptive` · `resilient`
-<!-- DAILY-MOOD-END -->
-
 ---
 
 ## Skills & Technologies
@@ -77,6 +71,16 @@ I'm particularly interested in the intersection of systems and software under tr
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 </div>
+
+---
+
+## Spotify Now Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ze3ve32opf7y2co6mg4fyvzmum&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 ---
 
