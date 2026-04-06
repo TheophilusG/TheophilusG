@@ -78,7 +78,7 @@ I'm particularly interested in the intersection of systems and software under tr
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ze3ve32opf7y2co6mg4fyvzmum&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ze3ve32opf7y2co6mg4fyvzmum&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" width="88%">
   </a>
 </p>
 
@@ -86,4 +86,8 @@ I'm particularly interested in the intersection of systems and software under tr
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theophilusg&theme=react&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=F85D7F&currStreakLabel=F8D866&sideNums=F85D7F&sideLabelsBg=1F222E&dateRangeLabel=F8D866)](https://github.com/theophilusg)
+<p align="center">
+  <a href="https://github.com/theophilusg">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theophilusg&theme=react&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=F85D7F&currStreakLabel=F8D866&sideNums=F85D7F&sideLabelsBg=1F222E&dateRangeLabel=F8D866" alt="GitHub Streak" />
+  </a>
+</p>
