@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/asci.png" alt="ASCII Art Screenshot" />
+  <img src="./assets/Canva%20Image.png" alt="ASCII Art Screenshot" />
 </p>
 
 # Hi
