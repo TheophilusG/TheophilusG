@@ -2,17 +2,15 @@
   <img src="./assets/Canva%20Image.png" alt="ASCII Art Screenshot" />
 </p>
 
-# Hi
+<h1 style="font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;">Hi</h1>
 
-I'm Teo, a **Software Developer**, **Researcher**, and **Lifelong Learner** passionate about building impactful products.
+<p style="font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;">
+I'm Teo, a <strong>Software Developer</strong>, <strong>Researcher</strong>, and <strong>Lifelong Learner</strong> passionate about building impactful products.
+</p>
 
+<p style="font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;">
 I'm particularly interested in the intersection of systems and software under transformative technologies. I believe in collaboration and am always open to exciting projects that make a difference.
-
-## Note for Today
-
-<!-- DAILY-QUOTE-START -->
-> The goal of software engineering is to control complexity, not to create it. — Pamela Zave
-<!-- DAILY-QUOTE-END -->
+</p>
 
 ## Dev Mood
 
